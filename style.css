@@ -1,0 +1,64 @@
+:root {
+    --pagemargin:5%;
+}
+
+body {
+    font-size:25px;
+    font-family:'Georgia', sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family:'Georgia', sans-serif;
+    letter-spacing:0.05em; 
+    text-transform:uppercase;
+}
+
+p {
+    line-height:150%;
+}
+
+a {
+    color:rgb(242, 109, 7);
+    transition:color 0.3s ease;
+    font-weight:600;
+}
+
+
+header {
+    background-color:rgb(242, 109, 7);
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    padding:0 var(--pagemargin);
+    align-items:center;
+}
+
+header h1 {
+    color:#fff;
+    font-size:5rem;
+    padding:12px 0 0;
+    margin:0;
+}
+
+header ul {
+    margin:0;
+    padding:0;
+    list-style:none; 
+}
+
+header ul li {
+    margin:0 0 0 30px;
+    padding:0;
+    display:inline;
+}
+
+header ul li a { 
+    color:rgb(16, 3, 197);
+    text-decoration:none;
+    font-size:1.3rem;
+}
+
+header ul li a:hover { 
+    color: rgb(242, 109, 7);
+    text-decoration:underline;
+}
