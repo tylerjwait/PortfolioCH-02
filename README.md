@@ -29,3 +29,7 @@ THEN I am presented with a responsive layout that adapts to my viewport✅
 ![tw-portfolio-1](https://github.com/tylerjwait/PortfolioCH-02/blob/main/tw-portfolio-1.png)
 ![tw-portfolio-2](https://github.com/tylerjwait/PortfolioCH-02/blob/main/tw-portfolio-2.png)
 ![tw-portfolio-3](https://github.com/tylerjwait/PortfolioCH-02/blob/main/tw-portfolio-3.png)
+
+
+DEPLOYED SITE>>>>>> https://tylerjwait.github.io/PortfolioCH-02/
+REPOSITORY>>>>>>>>> https://github.com/tylerjwait/PortfolioCH-02
