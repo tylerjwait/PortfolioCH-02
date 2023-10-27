@@ -1,6 +1,6 @@
 # PortfolioCH-02
 
-## This week 2 project was to demonstate skills learned thus far as well as use research skills we have learned to play around and try new things and create a portfolio for future employment opportunities. This was a start from skracth assignment. I only used HTML/CSS but in the future as I learn more in the program I will refer back to this file and keep adding more to better reflect what I have learned
+## This week 2 project was to demonstate skills learned thus far as well as use research skills we have learned to play around and try new things and create a portfolio for future employment opportunities. This was a start from scratch assignment. 
 
 User Story
 
